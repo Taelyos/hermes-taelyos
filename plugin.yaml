@@ -1,5 +1,5 @@
 name: taelyos
-version: 0.3.0
+version: 1.0.0
 description: "Taelyos, a black-and-amber theme for Hermes Desktop. The home screen shows the time on the drums of a tableau; session statuses are Desktop's own status dot, restyled. No network requests."
 author: Taelyos
 requires_hermes: ">=0.23.0"
